@@ -1,0 +1,9 @@
+* text=auto
+
+*.svg binary
+
+*.scad text eol=crlf
+*.md text eol=crlf
+*.js text eol=crlf
+
+*.json text eol=lf
