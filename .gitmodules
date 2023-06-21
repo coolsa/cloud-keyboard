@@ -1,0 +1,11 @@
+[submodule "qmk_firmware"]
+	path = qmk_firmware
+	url = https://github.com/coolsa/qmk_firmware.git
+	branch = split_cloud
+[submodule "hotswap_pcb_generator"]
+	path = hotswap_pcb_generator
+	url = https://github.com/coolsa/hotswap_pcb_generator.git
+	branch = split-cloud
+[submodule "KeyV2]
+	path = KeyV2
+	url = https://github.com/rsheldiii/KeyV2
